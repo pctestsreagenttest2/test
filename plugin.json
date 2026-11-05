@@ -1,0 +1,6 @@
+{
+  "name": "check-python-script",
+  "description": "Safely validate syntax, execution, and expected behavior of a Python script.",
+  "version": "1.0.0",
+  "skills": "./skills"
+}
